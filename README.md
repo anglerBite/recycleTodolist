@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+このtodoリストはdb接続やミドルウェア実装を行う際に使う使い回しのtodoListです。
+UIの作成が面倒なため、フォークしてアレンジして下さい。
+初期ではmongodbと接続可能となっております。
+
 ## Getting Started
 
 First, run the development server:
